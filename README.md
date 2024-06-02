@@ -25,7 +25,7 @@ To install Binary Brew, follow these steps:
 
 ## Contributing
 
-We welcome contributions to Binary Brew! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+I welcome contributions to Binary Brew! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/YourFeature`).
