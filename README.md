@@ -1,6 +1,6 @@
 # Binary Brew
 
-Binary Brew is a simple and lightweight app for Apple OSX that keeps your screen awake. It loads a coffee cup icon in the menu bar at the top of your computer screen. You can turn it on, off, or set a timer for 15, 30, or 60 minutes. While the app is active, your screen will not turn off. Binary Brew achieves this by running a background command that prevents the screen from sleeping.
+Binary Brew v1.0.0, your go-to solution for keeping your Apple OSX screen awake. Whether you’re working on an important project, watching a movie, or giving a presentation, Binary Brew ensures your screen stays on for as long as you need it. Binary Brew makes it incredibly easy to prevent your screen from going to sleep. Simply click on the coffee cup icon in the menu bar to activate the app and select from customizable timers of 15, 30, or 60 minutes, or keep it on indefinitely. Designed to be lightweight and efficient, Binary Brew runs seamlessly in the background without impacting your system’s performance. Perfect for long presentations, uninterrupted work sessions, and more, Binary Brew is an essential tool for anyone who needs to keep their screen awake. Download Binary Brew today and experience the convenience of a screen that stays on as long as you need it! For any questions or support, please reach out to pogularity@gmail.com.
 
 ## Features
 - Keeps your screen awake with a single click.
